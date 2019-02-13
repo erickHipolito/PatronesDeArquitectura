@@ -1,4 +1,4 @@
-package model;
+package capaNegocio;
 
 import java.io.Serializable;
 import javax.persistence.*;
